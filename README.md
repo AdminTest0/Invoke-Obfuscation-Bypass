@@ -20,3 +20,4 @@ out ..\payload1.ps1
 .\ps2exe.ps1 -inputFile 'payload1.ps1' -outputFile 'Test.exe' -runtime40 -lcid '' -MTA -noConsole -supportOS
 ```
 
+![image](https://z3.ax1x.com/2021/08/22/hpTzid.png)
