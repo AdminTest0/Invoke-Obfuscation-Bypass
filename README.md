@@ -1,9 +1,10 @@
 # Invoke-Obfuscation-Bypass
 
 
-启动Invoke-Obfuscation-Bypass
+powershell启动Invoke-Obfuscation-Bypass
 ```
-Invoke-Obfuscation-Bypass.exe
+Import-Module .\Invoke-Obfuscation.psd1
+Invoke-Obfuscation
 ```
 
 依次输入选项
